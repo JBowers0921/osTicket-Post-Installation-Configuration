@@ -133,19 +133,28 @@ After setting up the Agent(s) accounts, you can now configure the Users (custome
 <p>
   <img src="https://i.imgur.com/imjQ6Ua.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-The next step will be to add SLAs (Service Level Agreements). From the ADMIN Panel, go to Manage, from the drop down menu, select SLA. Open it and select add New SLA Plan. Name the plan, add a grace period and a schedule, select "Add Plan" Repeat the previous steps to add more SLAs for practice.
+The next step will be to add SLAs (Service Level Agreements). From the ADMIN Panel, go to Manage, from the drop down menu, select SLA. Open it and select add New SLA Plan. Name the plan, add a grace period and a schedule, select "Add Plan" 
+
+ 
+  <img src="https://i.imgur.com/HvMoKPT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  
+ Repeat the previous steps to add more SLAs.   
 <p> 
 <br /
 </p>
 <p>
-  <img src="https://i.imgur.com/imjQ6Ua.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/bwhceuC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-The final step will be to configure Help Topics. From the ADMIN Panel, go to Manage, from the drop down menu, select SLA. Open it and select add New SLA Plan. Name the plan, add a grace period and a schedule, select "Add Plan".
+The final configuration step will be to configure Help Topics. From the ADMIN Panel, go to Manage, Help topics, and click on "+Add New Help Topics". Add the topic desired and click "Add Topic".
+   
+ <p> 
+<br /
+</p>
+<p>
+  <img src="https://i.imgur.com/OsbULJF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+Repeat the previous steps to add more Help Topics.
+  
+You have now succesfully completed Post Configuration.
 </p>
 <p>  
- 
-  <img src=">https://i.imgur.com/HvMoKPT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-  
- Repeat the previous steps to add more SLAs.   
-  
- 
