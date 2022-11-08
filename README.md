@@ -75,13 +75,19 @@ To add Departments, from the Admin Panel, select the Agents tab, then Department
 <img src="https://i.imgur.com/YlFn7IZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-You should see a "successfully added" notificationd and see the new depaprtment under "Name" on the screen.
+You should see a "successfully added" notification and see the new department under "Name" on the screen.
   </p>
 <br />
 <p>
 <img src="https://i.imgur.com/FzEBFBX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To add Teams, from the Admin Panel, select the Agents tab, then Teams and then click on "+Add New Team". Name the Team. Add Members if you choose. Leave all other default settings as-is for now and click "Create Team"
+To add Teams, from the Admin Panel, select the Agents tab, then Teams and then click on "+Add New Team". 
 
 <p>
+<img src="https://i.imgur.com/F9Nsk93.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img src="https://i.imgur.com/ws8iWdj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+On the next screens above, Name the Team. Add Members if you choose. Leave all other default settings as-is for now and click "Create Team". The second screen will show your added Team.
