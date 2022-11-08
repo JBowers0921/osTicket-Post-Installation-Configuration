@@ -42,7 +42,7 @@ In order to begin Post Installation Configuration: Log into Azure and connect re
 <img src="https://i.imgur.com/nwUuxsr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After loggin in, you will be on the "AGENT" panel. Go to the upper left and click on "Admin Panel" to display the Systems Settings screen.
+After signing in, you will be on the "AGENT" panel. Go to the upper left and click on "Admin Panel" to display the Systems Settings screen.
 </p>
 <br />
 
@@ -50,7 +50,7 @@ After loggin in, you will be on the "AGENT" panel. Go to the upper left and clic
 <img src="https://i.imgur.com/OlZZVaV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To add Roles, from the Admin Panel, select the Agents tab, then Roles and then click on "+Add New Roles".
+To add Roles: From the Admin Panel, select the Agents tab, then Roles and then click on "+Add New Roles".
 </p>
 <br />
 
@@ -66,7 +66,7 @@ On the next screen, add the name of an agent of your choosing on the Definition 
 <img src="https://i.imgur.com/taYvRMW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To add Departments, from the Admin Panel, select the Agents tab, then Departments and then click on "+Add New Departments". Name the department. Leave all other default settings as-is for now. Click "Create Department".
+To add Departments: From the Admin Panel, select the Agents tab, then Departments and then click on "+Add New Departments". Name the department. Leave all other default settings as-is for now. Click "Create Department".
 </p>
 <br />
 </p>
@@ -133,7 +133,7 @@ After setting up the Agent(s) accounts, you can now configure the Users (custome
 <p>
   <img src="https://i.imgur.com/imjQ6Ua.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
-The next step will be to add SLAs (Service Level Agreements). From the ADMIN Panel, go to Manage, from the drop down menu, select SLA. Open it and select add New SLA Plan. Name the plan, add a grace period and a schedule, select "Add Plan" 
+The next step will be to add SLAs (Service Level Agreements). From the ADMIN Panel, go to Manage, from the drop down menu, select SLA. Open it and select "add New SLA Plan". Name the plan, add a grace period and a schedule, select "Add Plan" 
 
  
   <img src="https://i.imgur.com/HvMoKPT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
