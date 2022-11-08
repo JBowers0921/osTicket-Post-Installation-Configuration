@@ -47,7 +47,7 @@ After loggin in, you will be on the "AGENT" panel. Go to the upper left and clic
 <br />
 
 <p>
-img src="https://i.imgur.com/OlZZVaV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OlZZVaV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To add Roles, from the Admin Panel, select the Agents tab, and then click on "+Add New Roles"
