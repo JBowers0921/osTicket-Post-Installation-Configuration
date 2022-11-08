@@ -127,3 +127,25 @@ You have now added an Agent.  After adding the agent, you can make your selectio
  <img src="https://i.imgur.com/4tVe8eJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <p>
 After setting up the Agent(s) accounts, you can now configure the Users (customers). From the AGENT panel, go to User > +Add User. Fill in the account information and select "Add User" Repeat the previous steps to add more User accounts.  
+<p> 
+<br />
+</p>
+<p>
+  <img src="https://i.imgur.com/imjQ6Ua.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+The next step will be to add SLAs (Service Level Agreements). From the ADMIN Panel, go to Manage, from the drop down menu, select SLA. Open it and select add New SLA Plan. Name the plan, add a grace period and a schedule, select "Add Plan" Repeat the previous steps to add more SLAs for practice.
+<p> 
+<br /
+</p>
+<p>
+  <img src="https://i.imgur.com/imjQ6Ua.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+The final step will be to configure Help Topics. From the ADMIN Panel, go to Manage, from the drop down menu, select SLA. Open it and select add New SLA Plan. Name the plan, add a grace period and a schedule, select "Add Plan".
+</p>
+<p>  
+ 
+  <img src=">https://i.imgur.com/HvMoKPT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  
+ Repeat the previous steps to add more SLAs.   
+  
+ 
