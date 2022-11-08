@@ -66,12 +66,11 @@ On the next screen, add the name of an agent of your choosing on the Definition 
 <img src="https://i.imgur.com/taYvRMW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To add Departments, from the Admin Panel, select the Agents tab, then Departments and then click on "+Add New Departments". Name the department. Leave all other default settings as-is for now. Click "Create Department"
+To add Departments, from the Admin Panel, select the Agents tab, then Departments and then click on "+Add New Departments". Name the department. Leave all other default settings as-is for now. Click "Create Department".
 </p>
 <br />
 </p>
 <br />
-<p>
 <img src="https://i.imgur.com/YlFn7IZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -86,8 +85,45 @@ To add Teams, from the Admin Panel, select the Agents tab, then Teams and then c
 
 <p>
 <img src="https://i.imgur.com/F9Nsk93.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  
+On the screen above, Name the Team. Add Members if you choose. Leave all other default settings as-is for now and click "Create Team".
 <p>
 <img src="https://i.imgur.com/ws8iWdj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-On the next screens above, Name the Team. Add Members if you choose. Leave all other default settings as-is for now and click "Create Team". The second screen will show your added Team.
+ The above screen will show your "successfully added" notification.
+ </p>
+<p>
+  
+<img src="https://i.imgur.com/ZNHFC0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+After creating teams, you would need to allow anyone to create tickets. From the admin panel, go to Settings > User > User Settings. Uncheck the "Registration Required" box and then select "Save Changes"
+</p>
+<br />
+ </p>
+<p>
+  <img src="https://i.imgur.com/TmKEYUP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+Next, in order to configure Agents, from the admin panel, go to Agents > +Add New Agent. Fill in the account information and select "set Password".
+<p>
+<br />
+</p>
+<p>
+  <img src="https://i.imgur.com/OoeYSKo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+Next, in the "Set Password" window, un-check both boxes and then add the new password, confirm it and click "Set".
+<p> 
+<br />
+</p>
+<p>
+  <img src="https://i.imgur.com/dnV1Ltv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+You have now added an Agent.  After adding the agent, you can make your selections from the Access , Permissions and Teams Tabs and Create/ Save. Repeat the previous steps to add more agent accounts.
+<br />
+</p>
+<p>
+ <img src="https://i.imgur.com/do8XUBT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+ <img src="https://i.imgur.com/4tVe8eJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<p>
+After setting up the Agent(s) accounts, you can now configure the Users (customers). From the AGENT panel, go to User > +Add User. Fill in the account information and select "Add User" Repeat the previous steps to add more User accounts.  
