@@ -34,7 +34,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/YcAcSsI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In order to begin Post Installation Setup, log into Azure and connect remotely to VM1 (created in Pre-Instalation). Open a browser to your osTicket login page: http:/localhost/osTicket/scp/login.php. (lab training link). Use your credentials from the previous Installation step.
+In order to begin Post Installation Configuratio: Log into Azure and connect remotely to VM1 (created in Pre-Instalation). Open a browser to your osTicket login page: http:/localhost/osTicket/scp/login.php. (lab training link). Use your credentials from the previous Pre-Installation steps.
 </p>
 <br />
 
