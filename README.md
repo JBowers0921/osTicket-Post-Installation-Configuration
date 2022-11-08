@@ -50,6 +50,38 @@ After loggin in, you will be on the "AGENT" panel. Go to the upper left and clic
 <img src="https://i.imgur.com/OlZZVaV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To add Roles, from the Admin Panel, select the Agents tab, and then click on "+Add New Roles"
+To add Roles, from the Admin Panel, select the Agents tab, then Roles and then click on "+Add New Roles".
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/VqqzIZO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<img src="https://i.imgur.com/QoqIK6B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+On the next screen, add the name of an agent of your choosing on the Definition tab, select the Permissions tab. Add the desired Tickets, Tasks And Knowledgebase selections and click "Add Role" . The next pop up will show the role you added.
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/taYvRMW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To add Departments, from the Admin Panel, select the Agents tab, then Departments and then click on "+Add New Departments". Name the department. Leave all other default settings as-is for now. Click "Create Department"
+</p>
+<br />
+</p>
+<br />
+<p>
+<img src="https://i.imgur.com/YlFn7IZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+You should see a "successfully added" notificationd and see the new depaprtment under "Name" on the screen.
+  </p>
+<br />
+<p>
+<img src="https://i.imgur.com/FzEBFBX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+To add Teams, from the Admin Panel, select the Agents tab, then Teams and then click on "+Add New Team". Name the Team. Add Members if you choose. Leave all other default settings as-is for now and click "Create Team"
+
+<p>
